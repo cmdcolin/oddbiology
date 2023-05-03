@@ -1,6 +1,9 @@
 # oddbiology
 
-At a certain point, I wanted to cover weird biology in general, with maybe some focus on their genomes, but it didn't seem like it fit into oddgenes, so I created this repo, oddbiology. Anything goes
+See also https://github.com/cmdcolin/oddgenes
+
+
+This repo is similar to oddgenes in motivation, but I wanted to cover weird biology in general for things, even some genome related things, that didn't entirely fit into oddgenes. Feel free to make PRs for more stuff!
 
 
 ## Large numbers of chromosomes in a butterfly
