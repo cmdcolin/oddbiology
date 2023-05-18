@@ -23,7 +23,8 @@ https://phys.org/news/2023-04-single-celled-alga-harbor-genomes.html
 
 # Evolutionary facts
 
-- Mangoes, cashews, and pistachio are related to posion ivy https://www.scientificamerican.com/article/what-do-cashews-mangoes-and-poison-ivy-have-in-common/
-- Humans are more closely related to mushrooms than plants https://gizmodo.com/why-are-mushrooms-more-like-humans-than-they-are-like-p-5940434
-- Humans are more closely related to a sea urchin than a fly or worm https://www.abc.net.au/science/articles/2006/11/10/1785449.htm
-- There is no such thing as a tree (woody trees are not 'monophyletic') https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/
+- Mangoes, cashews, and pistachio are related to posion ivy ([ref](https://www.scientificamerican.com/article/what-do-cashews-mangoes-and-poison-ivy-have-in-common/))
+- Humans are more closely related to mushrooms than plants ([ref](https://gizmodo.com/why-are-mushrooms-more-like-humans-than-they-are-like-p-5940434))
+- Humans are more closely related to a sea urchin than a fly or worm ([ref](https://www.abc.net.au/science/articles/2006/11/10/1785449.htm))
+- There is no such thing as a tree (woody trees are not 'monophyletic') ([ref](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/))
+- Comb jellies are a sibling group to all other animals (not sponges) ([ref](https://www.mbari.org/news/genetic-research-offers-new-perspective-on-the-early-evolution-of-animals/))
