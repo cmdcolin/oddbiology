@@ -14,6 +14,8 @@ This repo is similar to oddgenes in motivation, but I wanted to cover weird biol
 
 https://twitter.com/Jente_O/status/1653469755569782808
 
+See also https://en.wikipedia.org/wiki/List_of_organisms_by_chromosome_count
+
 ## Seven different "genomes" in a single celled organism
 
 Like we have mitochondrial genome in our cells, this single celled organism has 7 different genomes in it's cell
