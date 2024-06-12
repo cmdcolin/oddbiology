@@ -23,6 +23,17 @@ Like we have mitochondrial genome in our cells, this single celled organism has 
 https://phys.org/news/2023-04-single-celled-alga-harbor-genomes.html
 
 
+# Sex
+
+## Parthogenesis
+
+"Parthenogenesis is a natural form of asexual reproduction in which growth and development of an embryo occur directly from an egg, without need for fertilization...Parthenogenesis occurs naturally in some plants, algae, invertebrate animal species (including nematodes, some tardigrades, water fleas, some scorpions, aphids, some mites, some bees, some Phasmatodea, and parasitic wasps), and a few vertebrates (such as some fish,[6] amphibians, reptiles,[7][8][9] and birds[10][11][12])."
+
+https://en.wikipedia.org/wiki/Parthenogenesis
+
+There are other types of asexual reproduction as well https://en.wikipedia.org/wiki/Asexual_reproduction
+
+
 # Evolutionary facts
 
 - Mangoes, cashews, and pistachio are related to posion ivy ([ref](https://www.scientificamerican.com/article/what-do-cashews-mangoes-and-poison-ivy-have-in-common/))
