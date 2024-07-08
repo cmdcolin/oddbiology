@@ -55,20 +55,31 @@ There are other types of cannibalism also https://en.wikipedia.org/wiki/Cannibal
 
 See also: trophic eggs (eggs as food) https://en.wikipedia.org/wiki/Trophic_egg
 
-# Evolutionary facts
+# Evolution
 
-- Mangoes, cashews, and pistachio are related to posion ivy ([ref](https://www.scientificamerican.com/article/what-do-cashews-mangoes-and-poison-ivy-have-in-common/))
-- Humans are more closely related to mushrooms than plants ([ref](https://gizmodo.com/why-are-mushrooms-more-like-humans-than-they-are-like-p-5940434))
-- Humans are more closely related to a sea urchin than a fly or worm ([ref](https://www.abc.net.au/science/articles/2006/11/10/1785449.htm))
-- Comb jellies are a sibling group to all other animals (not sponges) ([ref](https://www.mbari.org/news/genetic-research-offers-new-perspective-on-the-early-evolution-of-animals/))
-- Oak trees are more related to pumpkins than to pine trees (similar to the above, [ref](https://www.youtube.com/watch?v=ONVpFtiD-fo))
-- Horses are more closely related to rhinos than antelope (even vs odd toed ungulates, [ref](https://positivepeerpressure.blog/quirky-evolution-5-unlikely-animal-relatives-hiding-in-plain-sight-6e08cfd299a7))
-- Hyraxes (rodent-looking mammal) are more related to manatees and elephants than any other rodent ([ref](https://en.wikipedia.org/wiki/Hyrax))
+## Odd evolutionary relationships
 
-see also
+- Mangoes, cashews, and pistachio are related to posion ivy (https://www.scientificamerican.com/article/what-do-cashews-mangoes-and-poison-ivy-have-in-common/)
+- Humans are more closely related to mushrooms than plants (https://gizmodo.com/why-are-mushrooms-more-like-humans-than-they-are-like-p-5940434)
+- Humans are more closely related to a sea urchin than a fly or worm (https://www.abc.net.au/science/articles/2006/11/10/1785449.htm)
+- Comb jellies are a sibling group to all other animals (not sponges) (https://www.mbari.org/news/genetic-research-offers-new-perspective-on-the-early-evolution-of-animals/)
+- Oak trees are more related to pumpkins than to pine trees (https://www.youtube.com/watch?v=ONVpFtiD-fo)
+- Horses are more closely related to rhinos than antelope (even vs odd toed ungulates, (https://positivepeerpressure.blog/quirky-evolution-5-unlikely-animal-relatives-hiding-in-plain-sight-6e08cfd299a7)
+- Hyraxes (rodent-looking mammal) are more related to manatees and elephants than any other rodent (https://en.wikipedia.org/wiki/Hyrax)
+- "There is no such thing as a tree" (or, woody trees are not 'monophyletic') (https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
+- "There is no such thing as a fish" (similar to above) (https://www.businessinsider.com/fish-do-not-exist-2016-8)
 
-- "There is no such thing as a tree" (or, woody trees are not 'monophyletic') ([ref](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/))
-- "There is no such thing as a fish" (similar to above) ([ref](https://www.businessinsider.com/fish-do-not-exist-2016-8))
+## Evolutionary hypotheses
+
+### Eukaryotes evolved from giant viruses? 
+
+https://en.wikipedia.org/wiki/Viral_eukaryogenesis 
+
+oversimplified supporting evidence copied from AI
+
+- Linear DNA with End Sequences: Some viruses, like poxviruses, have linear DNA with specialized end sequences, similar to the chromosomes found in the eukaryotic nucleus, unlike the circular DNA of bacteria.
+- mRNA Capping: Both eukaryotes and some viruses, like Mimivirus, use a process called mRNA capping to modify their messenger RNA (mRNA) molecules. This modification helps with efficient translation of mRNA into proteins.
+- Separate Transcription and Translation: Unlike bacteria where these processes occur simultaneously, eukaryotes and some viruses have separate compartments for transcription (nucleus) and translation (cytoplasm).
 
 # Convergent evolution examples
 
