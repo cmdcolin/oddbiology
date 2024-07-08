@@ -53,6 +53,8 @@ https://en.wikipedia.org/wiki/Sexual_cannibalism
 
 There are other types of cannibalism also https://en.wikipedia.org/wiki/Cannibalism
 
+See also: trophic eggs (eggs as food) https://en.wikipedia.org/wiki/Trophic_egg
+
 # Evolutionary facts
 
 - Mangoes, cashews, and pistachio are related to posion ivy ([ref](https://www.scientificamerican.com/article/what-do-cashews-mangoes-and-poison-ivy-have-in-common/))
