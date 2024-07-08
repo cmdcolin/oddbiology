@@ -27,7 +27,7 @@ https://phys.org/news/2023-04-single-celled-alga-harbor-genomes.html
 
 ## Parthogenesis
 
-Parthenogenesis is an embryo that grows directly from unfertilized eggs. Some species (e.g. whiptail lizards) are entirely female. It also occurs in plants, algae, invertebrates (nematodes, tardigrades, water fleas, scorpions, aphids, mites, bees, wasps), and a few vertebrates (such as some fish, amphibians, reptiles, birds). https://en.wikipedia.org/wiki/Parthenogenesis
+Parthenogenesis is an embryo that grows directly from unfertilized eggs. Some species (e.g. whiptail lizards) are entirely female. https://en.wikipedia.org/wiki/Parthenogenesis
 
 There are other types of asexual reproduction as well https://en.wikipedia.org/wiki/Asexual_reproduction
 
