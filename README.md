@@ -75,12 +75,6 @@ See also: trophic eggs (eggs as food) https://en.wikipedia.org/wiki/Trophic_egg
 
 https://en.wikipedia.org/wiki/Viral_eukaryogenesis 
 
-oversimplified supporting evidence copied from AI
-
-- Linear DNA with End Sequences: Some viruses, like poxviruses, have linear DNA with specialized end sequences, similar to the chromosomes found in the eukaryotic nucleus, unlike the circular DNA of bacteria.
-- mRNA Capping: Both eukaryotes and some viruses, like Mimivirus, use a process called mRNA capping to modify their messenger RNA (mRNA) molecules. This modification helps with efficient translation of mRNA into proteins.
-- Separate Transcription and Translation: Unlike bacteria where these processes occur simultaneously, eukaryotes and some viruses have separate compartments for transcription (nucleus) and translation (cytoplasm).
-
 # Convergent evolution examples
 
 https://en.wikipedia.org/wiki/List_of_examples_of_convergent_evolution
