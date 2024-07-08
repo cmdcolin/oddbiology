@@ -45,9 +45,14 @@ See also https://en.wikipedia.org/wiki/Sexual_system#List_of_sexual_systems
 - Humans are more closely related to mushrooms than plants ([ref](https://gizmodo.com/why-are-mushrooms-more-like-humans-than-they-are-like-p-5940434))
 - Humans are more closely related to a sea urchin than a fly or worm ([ref](https://www.abc.net.au/science/articles/2006/11/10/1785449.htm))
 - Comb jellies are a sibling group to all other animals (not sponges) ([ref](https://www.mbari.org/news/genetic-research-offers-new-perspective-on-the-early-evolution-of-animals/))
-- "There is no such thing as a fish" (similar to above) ([ref](https://www.businessinsider.com/fish-do-not-exist-2016-8))
-- "There is no such thing as a tree" (or, woody trees are not 'monophyletic') ([ref](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/))
 - Oak trees are more related to pumpkins than to pine trees (similar to the above, [ref](https://www.youtube.com/watch?v=ONVpFtiD-fo))
+- Horses are more closely related to rhinos than antelope (even vs odd toed ungulates, [ref](https://positivepeerpressure.blog/quirky-evolution-5-unlikely-animal-relatives-hiding-in-plain-sight-6e08cfd299a7))
+- Hyraxes (rodent-looking mammal) are more related to manatees and elephants than any other rodent ([ref](https://en.wikipedia.org/wiki/Hyrax))
+
+see also
+
+- "There is no such thing as a tree" (or, woody trees are not 'monophyletic') ([ref](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/))
+- "There is no such thing as a fish" (similar to above) ([ref](https://www.businessinsider.com/fish-do-not-exist-2016-8))
 
 # Convergent evolution examples
 
