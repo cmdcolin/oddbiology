@@ -42,9 +42,10 @@ See also https://en.wikipedia.org/wiki/Sexual_system#List_of_sexual_systems
 - Mangoes, cashews, and pistachio are related to posion ivy ([ref](https://www.scientificamerican.com/article/what-do-cashews-mangoes-and-poison-ivy-have-in-common/))
 - Humans are more closely related to mushrooms than plants ([ref](https://gizmodo.com/why-are-mushrooms-more-like-humans-than-they-are-like-p-5940434))
 - Humans are more closely related to a sea urchin than a fly or worm ([ref](https://www.abc.net.au/science/articles/2006/11/10/1785449.htm))
-- There is no such thing as a tree (woody trees are not 'monophyletic') ([ref](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/))
-- Oak trees are more related to pumpkins than to pine trees (similar to the above, [ref](https://www.youtube.com/watch?v=ONVpFtiD-fo))
 - Comb jellies are a sibling group to all other animals (not sponges) ([ref](https://www.mbari.org/news/genetic-research-offers-new-perspective-on-the-early-evolution-of-animals/))
+- "There is no such thing as a fish" (similar to above) ([ref](https://www.businessinsider.com/fish-do-not-exist-2016-8))
+- "There is no such thing as a tree" (or, woody trees are not 'monophyletic') ([ref](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/))
+- Oak trees are more related to pumpkins than to pine trees (similar to the above, [ref](https://www.youtube.com/watch?v=ONVpFtiD-fo))
 
 # Convergent evolution examples
 
