@@ -39,6 +39,20 @@ https://biology.stackexchange.com/questions/77371/are-there-lifeforms-that-have-
 
 See also https://en.wikipedia.org/wiki/Sexual_system#List_of_sexual_systems
 
+## Male pregnancy
+
+Seahorses are a common example where they will host the growing embryos
+
+https://en.wikipedia.org/wiki/Male_pregnancy
+
+## Sexual cannibalism
+
+Seen in many invertebrates. Black widows are given their name due to this. Praying mantis also
+
+https://en.wikipedia.org/wiki/Sexual_cannibalism
+
+There are other types of cannibalism also https://en.wikipedia.org/wiki/Cannibalism
+
 # Evolutionary facts
 
 - Mangoes, cashews, and pistachio are related to posion ivy ([ref](https://www.scientificamerican.com/article/what-do-cashews-mangoes-and-poison-ivy-have-in-common/))
@@ -57,3 +71,11 @@ see also
 # Convergent evolution examples
 
 https://en.wikipedia.org/wiki/List_of_examples_of_convergent_evolution
+
+## Parenting
+
+The concept of 'parental care' evolved independently in many lineages  through convergent evolution
+
+https://en.wikipedia.org/wiki/Parental_care
+
+
