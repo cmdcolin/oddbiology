@@ -71,9 +71,7 @@ See also: trophic eggs (eggs as food) https://en.wikipedia.org/wiki/Trophic_egg
 
 ## Evolutionary hypotheses
 
-### Eukaryotes evolved from giant viruses? 
-
-https://en.wikipedia.org/wiki/Viral_eukaryogenesis 
+- Eukaryotes evolved from giant viruses?  https://en.wikipedia.org/wiki/Viral_eukaryogenesis 
 
 # Convergent evolution examples
 
