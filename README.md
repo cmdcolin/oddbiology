@@ -27,12 +27,15 @@ https://phys.org/news/2023-04-single-celled-alga-harbor-genomes.html
 
 ## Parthogenesis
 
-"Parthenogenesis is a natural form of asexual reproduction in which growth and development of an embryo occur directly from an egg, without need for fertilization...Parthenogenesis occurs naturally in some plants, algae, invertebrate animal species (including nematodes, some tardigrades, water fleas, some scorpions, aphids, some mites, some bees, some Phasmatodea, and parasitic wasps), and a few vertebrates (such as some fish,[6] amphibians, reptiles,[7][8][9] and birds[10][11][12])."
-
-https://en.wikipedia.org/wiki/Parthenogenesis
+Parthenogenesis is an embryo that grows directly from unfertilized eggs.  It occurs naturally in some plants, algae, invertebrate (nematodes, tardigrades, water fleas, scorpions, aphids, mites, bees, wasps), and a few vertebrates (such as some fish, amphibians, reptiles, birds). https://en.wikipedia.org/wiki/Parthenogenesis
 
 There are other types of asexual reproduction as well https://en.wikipedia.org/wiki/Asexual_reproduction
 
+## Species with "more than two sexes"?
+
+https://biology.stackexchange.com/questions/77371/are-there-lifeforms-that-have-more-than-2-sexes
+
+See also https://en.wikipedia.org/wiki/Sexual_system#List_of_sexual_systems
 
 # Evolutionary facts
 
