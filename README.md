@@ -53,6 +53,14 @@ There are other types of cannibalism also https://en.wikipedia.org/wiki/Cannibal
 
 See also: trophic eggs (eggs as food) https://en.wikipedia.org/wiki/Trophic_egg
 
+## Traumatic insemination
+
+A number of examples listed here https://en.wikipedia.org/wiki/Sexual_conflict
+
+## Odd genitalia
+
+- Kangaroos have "three vaginas" https://grist.org/animals/kangaroo-genitals-are-weirder-than-you-ever-thought-possible-2/
+
 # Evolution
 
 ## Odd evolutionary relationships
