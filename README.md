@@ -47,9 +47,7 @@ https://en.wikipedia.org/wiki/Male_pregnancy
 
 ## Sexual cannibalism
 
-Seen in many invertebrates. Black widows are given their name due to this. Praying mantis also
-
-https://en.wikipedia.org/wiki/Sexual_cannibalism
+There are a variety of 'reasons' why cannibalism and sexual cannibalism occurs, but it is common across the tree of life https://en.wikipedia.org/wiki/Sexual_cannibalism
 
 There are other types of cannibalism also https://en.wikipedia.org/wiki/Cannibalism
 
