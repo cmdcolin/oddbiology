@@ -22,6 +22,11 @@ Like we have mitochondrial genome in our cells, this single celled organism has 
 
 https://phys.org/news/2023-04-single-celled-alga-harbor-genomes.html
 
+# Cellular
+
+## Multiple-fission cell division
+
+Dental plaque bacteria elongates and then splits into 3-14 cells in a cell division https://www.sciencealert.com/bacteria-in-your-mouth-reproduce-in-a-strange-rare-way-scientists-discover
 
 # Sex
 
