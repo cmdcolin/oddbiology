@@ -28,6 +28,8 @@ https://phys.org/news/2023-04-single-celled-alga-harbor-genomes.html
 
 Dental plaque bacteria elongates and then splits into 3-14 cells in a cell division https://www.sciencealert.com/bacteria-in-your-mouth-reproduce-in-a-strange-rare-way-scientists-discover
 
+More info https://en.wikipedia.org/wiki/Fission_(biology)#Multiple_fission
+
 # Sex
 
 ## Parthogenesis
