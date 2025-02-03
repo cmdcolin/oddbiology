@@ -81,6 +81,7 @@ A number of examples listed here https://en.wikipedia.org/wiki/Sexual_conflict
 - Hyraxes (rodent-looking mammal) are more related to manatees and elephants than any other rodent (https://en.wikipedia.org/wiki/Hyrax)
 - "There is no such thing as a tree" (or, woody trees are not 'monophyletic') (https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
 - "There is no such thing as a fish" (similar to above) (https://www.businessinsider.com/fish-do-not-exist-2016-8)
+- Bats are more closely related to cows, whales, and pumas compared vs flying squirrels  https://www.batcon.org/surprising-bat-relatives/
 
 ## Evolutionary hypotheses
 
