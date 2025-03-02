@@ -24,7 +24,7 @@ See also https://en.wikipedia.org/wiki/List_of_organisms_by_chromosome_count
 
 https://genomebiology.biomedcentral.com/articles/10.1186/gb-2007-8-11-r243
 
-More complete genome sequencing was done 2001 https://pmc.ncbi.nlm.nih.gov/articles/PMC8081666/
+More complete genome sequencing was done 2021 https://pmc.ncbi.nlm.nih.gov/articles/PMC8081666/
 
 
 ## Seven different "genomes" in a single celled organism
