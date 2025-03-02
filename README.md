@@ -16,6 +16,15 @@ https://twitter.com/Jente_O/status/1653469755569782808
 
 See also https://en.wikipedia.org/wiki/List_of_organisms_by_chromosome_count
 
+## Large number of sex chromosomes in platypus
+
+"Our previous studies showed that male platypus has five X and five Y chromosomes, no SRY, and DMRT1 on an X chromosome"
+
+https://genomebiology.biomedcentral.com/articles/10.1186/gb-2007-8-11-r243
+
+More complete genome sequencing was done 2001 https://pmc.ncbi.nlm.nih.gov/articles/PMC8081666/
+
+
 ## Seven different "genomes" in a single celled organism
 
 Like we have mitochondrial genome in our cells, this single celled organism has 7 different genomes in it's cell
