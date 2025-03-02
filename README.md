@@ -18,7 +18,7 @@ See also https://en.wikipedia.org/wiki/List_of_organisms_by_chromosome_count
 
 ## Large number of sex chromosomes in platypus
 
-"Our previous studies showed that male platypus has five X and five Y chromosomes, no SRY, and DMRT1 on an X chromosome"
+"Our previous studies showed that male platypus has five X and five Y chromosomes, no SRY, and DMRT1 on an X chromosome"...additionally some of the X chromosomes have high homology to birds e.g. chicken
 
 https://genomebiology.biomedcentral.com/articles/10.1186/gb-2007-8-11-r243
 
