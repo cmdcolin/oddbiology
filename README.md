@@ -20,6 +20,8 @@ See also https://en.wikipedia.org/wiki/List_of_organisms_by_chromosome_count
 
 "Our previous studies showed that male platypus has five X and five Y chromosomes, no SRY, and DMRT1 on an X chromosome"...additionally some of the X chromosomes have high homology to birds e.g. chicken
 
+"Though the platypus lacks the mammalian sex-determining gene SRY, a study found that the mechanism of sex determination is the AMH gene on the oldest Y chromosome." https://en.wikipedia.org/wiki/Platypus#Evolution
+
 https://genomebiology.biomedcentral.com/articles/10.1186/gb-2007-8-11-r243
 
 More complete genome sequencing was done 2001 https://pmc.ncbi.nlm.nih.gov/articles/PMC8081666/
