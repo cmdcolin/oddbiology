@@ -10,6 +10,8 @@ This repo is similar to oddgenes in motivation, but I wanted to cover weird biol
 
 ## Odd evolutionary relationships
 
+## Plants
+
 - Mangoes, cashews, and pistachio are related to posion ivy (https://www.scientificamerican.com/article/what-do-cashews-mangoes-and-poison-ivy-have-in-common/)
 - Humans are more closely related to mushrooms than plants (https://gizmodo.com/why-are-mushrooms-more-like-humans-than-they-are-like-p-5940434)
 - Humans are more closely related to a sea urchin than a fly or worm (https://www.abc.net.au/science/articles/2006/11/10/1785449.htm)
@@ -20,7 +22,7 @@ This repo is similar to oddgenes in motivation, but I wanted to cover weird biol
 - "There is no such thing as a tree" (or, woody trees are not 'monophyletic') (https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
 - "There is no such thing as a fish" (similar to above) (https://www.businessinsider.com/fish-do-not-exist-2016-8)
 - Bats are more closely related to cows, whales, and pumas compared vs flying squirrels  https://www.batcon.org/surprising-bat-relatives/
-- Aardvarks are more related to manatees than they are to armadillos https://www.livescience.com/55241-aardvark-facts.html
+- Aardvarks are more related to manatees than they are to armadillos https://www.livescience.com/55241-aardvark-facts.html (bonus: Aardvarks are actually the only living aka extent species of their evolutionary branch)
 
 ## Evolutionary hypotheses
 
