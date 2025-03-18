@@ -23,6 +23,7 @@ This repo is similar to oddgenes in motivation, but I wanted to cover weird biol
 - "There is no such thing as a fish" (similar to above) (https://www.businessinsider.com/fish-do-not-exist-2016-8)
 - Bats are more closely related to cows, whales, and pumas compared vs flying squirrels  https://www.batcon.org/surprising-bat-relatives/
 - Aardvarks are more related to manatees than they are to armadillos https://www.livescience.com/55241-aardvark-facts.html (bonus: Aardvarks are the only living species of their evolutionary branch)
+- New world vultures and old world vultures are not very closely related, it is convergent evolution https://en.wikipedia.org/wiki/New_World_vulture
 
 ## Evolutionary hypotheses
 
