@@ -3,7 +3,11 @@
 See also https://github.com/cmdcolin/oddgenes
 
 
-This repo is similar to oddgenes in motivation, but I wanted to cover weird biology in general for things, even some genome related things, that didn't entirely fit into oddgenes. Feel free to make PRs for more stuff!
+This repo is similar to oddgenes in motivation, but I wanted to cover weird biology in general for things, even some genome related things, that didn't entirely fit into oddgenes. 
+
+So much of the entire tree of life is extremely odd in a way, so it is hard to draw any line for what qualifies for this repo, but I'll accept basically anything
+
+Please free to make PRs for more stuff!
 
 
 # Evolution
