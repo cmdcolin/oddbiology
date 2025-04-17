@@ -23,7 +23,7 @@ Please free to make PRs for more stuff!
 - Oak trees are more related to pumpkins than to pine trees (https://www.youtube.com/watch?v=ONVpFtiD-fo)
 - Horses are more closely related to rhinos than antelope (even vs odd toed ungulates, (https://positivepeerpressure.blog/quirky-evolution-5-unlikely-animal-relatives-hiding-in-plain-sight-6e08cfd299a7)
 - Hyraxes (rodent-looking mammal) are more related to manatees and elephants than any other rodent (https://en.wikipedia.org/wiki/Hyrax)
-- "There is no such thing as a tree" (or, woody trees are not 'monophyletic') (https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
+- "There is no such thing as a tree" (or, woody trees are not 'monophyletic') (https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/) see also this TED video https://www.youtube.com/watch?v=j1EXBeBA89w
 - "There is no such thing as a fish" (similar to above) (https://www.businessinsider.com/fish-do-not-exist-2016-8)
 - Bats are more closely related to cows, whales, and pumas compared vs flying squirrels  https://www.batcon.org/surprising-bat-relatives/
 - Aardvarks are more related to manatees than they are to armadillos https://www.livescience.com/55241-aardvark-facts.html (bonus: Aardvarks are the only living species of their evolutionary branch)
