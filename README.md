@@ -29,7 +29,7 @@ Please free to make PRs for more stuff!
 - Aardvarks are more related to manatees than they are to armadillos https://www.livescience.com/55241-aardvark-facts.html (bonus: Aardvarks are the only living species of their evolutionary branch)
 - New world vultures and old world vultures are not very closely related, it is convergent evolution https://en.wikipedia.org/wiki/New_World_vulture
 - Seals are more closely related to dogs than they are to cats, and even more closely related to bears  https://www.youtube.com/watch?v=aAOsf004FqQ
-- Shrews are more closely related to cats than mice https://www.youtube.com/shorts/jRPiiXKmZIA
+- Shrews are more closely related to cats (and hedgehogs) than mice https://www.youtube.com/shorts/jRPiiXKmZIA
 
 ## Evolutionary hypotheses
 
