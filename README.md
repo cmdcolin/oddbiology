@@ -9,6 +9,24 @@ So much of the entire tree of life is extremely odd in a way, so it is hard to d
 
 Please free to make PRs for more stuff!
 
+# Non-random segregation of chromosomes
+
+Here is a short summary of https://en.wikipedia.org/wiki/Non-random_segregation_of_chromosomes created by google gemini
+
+* **Aphids**: During spermatogenesis, the X chromosome in aphids consistently moves to the larger daughter cell, which is the only one that produces sperm, ensuring all offspring are female.
+* **Butterflies (ZZ/Z0 type, e.g., Taleporia tubulosa)**: The Z chromosome's segregation in ZZ/Z0 type butterflies is influenced by temperature and maternal age, impacting the offspring's sex ratio.
+* **Butterflies (ZZ/ZW type)**: In certain ZZ/ZW type butterflies, the W chromosome always enters the egg cell, resulting exclusively in female offspring.
+* **Fungus Gnats**: During meiosis II, the X chromosome in fungus gnats prematurely moves to one spindle pole, leading to sperm with two X chromosomes, although one is later eliminated.
+* **Flowering Plants (e.g., maize with the K10 chromosome)**: The K10 chromosome in flowering plants like maize preferentially enters the embryo sac, leading to its increased inheritance.
+* **Plants (e.g., *Lilium callosum* with B chromosomes)**: B chromosomes in plants such as *Lilium callosum* demonstrate non-random segregation, causing their accumulation in subsequent generations.
+* **Some Bug Species**: In certain bug species, mechanically linked X chromosomes cosegregate.
+* **Giant Crab Spider (*Delena cancerides*)**: Free univalents, or unpaired chromosomes, show coordinated segregation in the giant crab spider.
+* **Various Neuroptera**: Free univalents also exhibit coordinated segregation in various Neuroptera species.
+* **Alticini**: Coordinated segregation of free univalents is observed in Alticini.
+* **Cricket (*Eneoptera surinamensis*)**: The cricket *Eneoptera surinamensis* also shows coordinated segregation of free univalents.
+* **Whirl Worm (*Mesostoma ehrenbergii*)**: Coordinated segregation of free univalents occurs in the whirl worm *Mesostoma ehrenbergii*.
+* **Northern Mole Cricket (*Neocurtilla hexadactyla*)**: In the northern mole cricket, sex chromosomes segregate before autosomes, with the univalent X1 chromosome moving to the opposite pole from the X2Y bivalent.
+
 
 # Evolution
 
