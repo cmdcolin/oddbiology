@@ -32,14 +32,12 @@ Here is a short summary of https://en.wikipedia.org/wiki/Non-random_segregation_
 
 ## Odd evolutionary relationships
 
-## Plants
-
 - Mangoes, cashews, and pistachio are related to posion ivy (https://www.scientificamerican.com/article/what-do-cashews-mangoes-and-poison-ivy-have-in-common/)
 - Humans are more closely related to mushrooms than plants (https://gizmodo.com/why-are-mushrooms-more-like-humans-than-they-are-like-p-5940434)
 - Humans are more closely related to a sea urchin than a fly or worm (https://www.abc.net.au/science/articles/2006/11/10/1785449.htm)
 - Comb jellies are a sibling group to all other animals (not sponges) (https://www.mbari.org/news/genetic-research-offers-new-perspective-on-the-early-evolution-of-animals/)
 - Oak trees are more related to pumpkins than to pine trees (https://www.youtube.com/watch?v=ONVpFtiD-fo)
-- Horses are more closely related to rhinos than antelope (even vs odd toed ungulates, (https://positivepeerpressure.blog/quirky-evolution-5-unlikely-animal-relatives-hiding-in-plain-sight-6e08cfd299a7)
+- Horses are more closely related to rhinos than antelope (even vs odd toed ungulates, (https://positivepeerpressure.blog/quirky-evolution-5-unlikely-animal-relatives-hiding-in-plain-sight-6e08cfd299a7) 
 - Hyraxes (rodent-looking mammal) are more related to manatees and elephants than any other rodent (https://en.wikipedia.org/wiki/Hyrax)
 - "There is no such thing as a tree" (or, woody trees are not 'monophyletic') (https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/) see also this TED video https://www.youtube.com/watch?v=j1EXBeBA89w
 - "There is no such thing as a fish" (similar to above) (https://www.businessinsider.com/fish-do-not-exist-2016-8)
@@ -48,6 +46,11 @@ Here is a short summary of https://en.wikipedia.org/wiki/Non-random_segregation_
 - New world vultures and old world vultures are not very closely related, it is convergent evolution https://en.wikipedia.org/wiki/New_World_vulture
 - Seals are more closely related to dogs than they are to cats, and even more closely related to bears  https://www.youtube.com/watch?v=aAOsf004FqQ
 - Shrews are more closely related to cats (and hedgehogs) than mice https://www.youtube.com/shorts/jRPiiXKmZIA
+
+## Crazy evolution
+
+- Horses used to be smaller and have multiple toes, similar to a tapir,  but it was reduced to where they walk on their "middle finger"  https://www.sci.news/paleontology/modern-horse-toes-12022.html https://en.wikipedia.org/wiki/Evolution_of_the_horse
+
 
 ## Evolutionary hypotheses
 
