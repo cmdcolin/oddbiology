@@ -46,6 +46,7 @@ Here is a short summary of https://en.wikipedia.org/wiki/Non-random_segregation_
 - New world vultures and old world vultures are not very closely related, it is convergent evolution https://en.wikipedia.org/wiki/New_World_vulture
 - Seals are more closely related to dogs than they are to cats, and even more closely related to bears  https://www.youtube.com/watch?v=aAOsf004FqQ
 - Shrews are more closely related to cats (and hedgehogs) than mice https://www.youtube.com/shorts/jRPiiXKmZIA
+- Malaria is closely related to seaweed https://www.youtube.com/watch?v=4ejoVBcLP4U
 
 ## Crazy evolution
 
