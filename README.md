@@ -98,8 +98,7 @@ Try our game https://phyloguessr.com to test your knowledge of these!
 - Oak trees are more related to pumpkins than to pine trees (https://www.youtube.com/watch?v=ONVpFtiD-fo)
 - Horses are more closely related to rhinos than antelope (even vs odd toed ungulates) (https://positivepeerpressure.blog/quirky-evolution-5-unlikely-animal-relatives-hiding-in-plain-sight-6e08cfd299a7)
 - Hyraxes (rodent-looking mammals) are more related to manatees and elephants than to any rodent (https://en.wikipedia.org/wiki/Hyrax)
-- "There is no such thing as a tree" (woody trees are not monophyletic) (https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/) see also https://www.youtube.com/watch?v=j1EXBeBA89w
-- "There is no such thing as a fish" (similar to above) (https://www.businessinsider.com/fish-do-not-exist-2016-8)
+
 - Bats are more closely related to cows, whales, and pumas compared to flying squirrels https://www.batcon.org/surprising-bat-relatives/
 - Aardvarks are more related to manatees than to armadillos https://www.livescience.com/55241-aardvark-facts.html (bonus: Aardvarks are the only living species of their evolutionary branch)
 - New world vultures and old world vultures are not very closely related, it is convergent evolution https://en.wikipedia.org/wiki/New_World_vulture
@@ -111,6 +110,12 @@ Try our game https://phyloguessr.com to test your knowledge of these!
 - Termites are actually a family of cockroaches https://en.wikipedia.org/wiki/Termite#Taxonomy
 - Red pandas are not closely related to giant pandas — they're in the weasel/raccoon superfamily https://en.wikipedia.org/wiki/Red_panda
 - Whales evolved from hoofed land mammals and are closely related to hippos https://en.wikipedia.org/wiki/Evolution_of_cetaceans
+
+### No such thing as a...
+
+- "There is no such thing as a shark" (sharks closer to rays) https://www.nature.com/articles/d41586-026-00594-w
+- "There is no such thing as a tree" (woody trees are not monophyletic) (https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/) see also https://www.youtube.com/watch?v=j1EXBeBA89w
+- "There is no such thing as a fish" (similar to above) (https://www.businessinsider.com/fish-do-not-exist-2016-8)
 
 ### Unusual evolutionary transitions
 
