@@ -27,10 +27,11 @@ Examples:
 - **Flowering plants (e.g. maize K10 chromosome)**: K10 is an abnormal version
   of chromosome 10 that cheats during meiosis — it hijacks the cell division
   machinery so it ends up in the egg cell ~70% of the time instead of 50%
-- **Scale insects**: males are parahaploid — only chromosomes of maternal origin
-  are active and passed to offspring
-- **B chromosomes in plants (e.g. Lilium callosum)**: accumulate across
-  generations via non-random segregation
+- **Scale insects**: males are parahaploid — they have both parents'
+  chromosomes, but only the mother's are switched on and passed to offspring
+- **B chromosomes in plants (e.g. Lilium callosum)**: B chromosomes are extra
+  "selfish" chromosomes with no known function that accumulate across
+  generations by biasing their own transmission
 
 This is closely related to meiotic drive / gene drive, where selfish genetic
 elements bias their own transmission. Engineered gene drives (e.g. using CRISPR)
@@ -79,9 +80,9 @@ https://www.cell.com/cell/fulltext/S0092-8674(17)31502-7
 
 ### Syncytins — retroviral genes essential for the placenta
 
-Syncytins, required for placental development in mammals, derive from retroviral
-envelope genes. Different mammalian lineages independently captured different
-retroviruses for this purpose.
+Syncytins are genes required for building the placenta in mammals, and they come
+from ancient retroviruses that infected our ancestors. Different mammalian
+lineages independently captured different retroviruses for this purpose.
 
 https://en.wikipedia.org/wiki/Syncytin
 
@@ -98,13 +99,12 @@ Try our game https://phyloguessr.com to test your knowledge of these!
 - Oak trees are more related to pumpkins than to pine trees (https://www.youtube.com/watch?v=ONVpFtiD-fo)
 - Horses are more closely related to rhinos than antelope (even vs odd toed ungulates) (https://positivepeerpressure.blog/quirky-evolution-5-unlikely-animal-relatives-hiding-in-plain-sight-6e08cfd299a7)
 - Hyraxes (rodent-looking mammals) are more related to manatees and elephants than to any rodent (https://en.wikipedia.org/wiki/Hyrax)
-
 - Bats are more closely related to cows, whales, and pumas compared to flying squirrels https://www.batcon.org/surprising-bat-relatives/
 - Aardvarks are more related to manatees than to armadillos https://www.livescience.com/55241-aardvark-facts.html (bonus: Aardvarks are the only living species of their evolutionary branch)
 - New world vultures and old world vultures are not very closely related, it is convergent evolution https://en.wikipedia.org/wiki/New_World_vulture
 - Seals are more closely related to dogs than to cats, and even more closely related to bears https://www.youtube.com/watch?v=aAOsf004FqQ
 - Shrews are more closely related to cats than to mice (shrews and hedgehogs are in the same order) https://www.youtube.com/shorts/jRPiiXKmZIA
-- The malaria parasite shares a surprising common ancestor with kelp and other algae — it even retains a vestigial chloroplast (the apicoplast), inherited from an ancient algal endosymbiont https://www.youtube.com/watch?v=4ejoVBcLP4U https://en.wikipedia.org/wiki/Apicoplast
+- The malaria parasite shares a surprising common ancestor with kelp and other algae — it even retains a vestigial chloroplast (the apicoplast), inherited from an ancestor that engulfed an alga https://www.youtube.com/watch?v=4ejoVBcLP4U https://en.wikipedia.org/wiki/Apicoplast
 - Falcons are more closely related to parrots than to hawks or eagles https://en.wikipedia.org/wiki/Falcon#Systematics_and_evolution
 - Crocodiles are more closely related to birds than to lizards (both are archosaurs) https://en.wikipedia.org/wiki/Archosaur
 - Termites are actually a family of cockroaches https://en.wikipedia.org/wiki/Termite#Taxonomy
@@ -162,6 +162,7 @@ It's been documented in birds, butterflies, crustaceans, and insects, and is
 sometimes visible as a striking bilateral split in coloring.
 
 https://en.wikipedia.org/wiki/Gynandromorph
+https://nautil.us/half-male-half-female-total-animal-234910/
 
 ## Dosage compensation and mosaicism
 
@@ -179,8 +180,9 @@ https://en.wikipedia.org/wiki/X-inactivation
 
 ### Dosage compensation solved differently across species
 
-The problem: how do you equalize X-linked gene expression between sexes? Each
-lineage evolved a completely different solution:
+The problem: males and females have different numbers of X chromosomes, so how
+do you keep gene output balanced? Each lineage evolved a completely different
+solution:
 
 - **Mammals**: silence one female X entirely
 - **Drosophila**: double the output of the single male X
@@ -196,8 +198,8 @@ https://en.wikipedia.org/wiki/Dosage_compensation
 
 ### Large numbers of chromosomes in a butterfly
 
-"Today I learned that the Atlas blue butterfly has 448–452 chromosomes. The
-highest number among non-polyploid eukaryotic organisms."
+The Atlas blue butterfly has 448-452 chromosomes — the highest number among
+organisms that haven't simply duplicated their whole genome.
 
 https://twitter.com/Jente_O/status/1653469755569782808
 
@@ -269,10 +271,11 @@ https://en.wikipedia.org/wiki/Acoela
 ### Photosynthetic salamander
 
 Spotted salamander embryos have algae living _inside_ their cells — the only
-known vertebrate with intracellular photosynthetic symbionts. The algae provide
-oxygen and the embryo provides CO2 and nutrients, right inside the egg.
+known vertebrate with photosynthetic organisms inside its cells. The algae
+provide oxygen and the embryo provides CO2 and nutrients.
 
 https://en.wikipedia.org/wiki/Spotted_salamander#Algal_symbiont
+https://www.nature.com/articles/news.2010.384
 
 ## Myxozoa — animals that became microscopic parasites
 
@@ -283,6 +286,7 @@ protists for over a century before molecular evidence revealed they were animals
 all along.
 
 https://en.wikipedia.org/wiki/Myxozoa
+https://www.smithsonianmag.com/smart-news/parasite-really-micro-jellyfish-180957326/
 
 ## Octopus RNA editing
 
@@ -294,6 +298,7 @@ evolution.
 
 https://en.wikipedia.org/wiki/RNA_editing#In_cephalopods
 https://www.cell.com/cell/fulltext/S0092-8674(17)30340-6
+https://www.nature.com/articles/d41586-017-00612-y
 
 ## Wolbachia — the most successful parasite on earth
 
@@ -304,6 +309,7 @@ spreads by being passed from mother to offspring and has become so integrated
 that some species can no longer survive without it.
 
 https://en.wikipedia.org/wiki/Wolbachia
+https://www.nationalgeographic.com/science/article/one-parasite-to-rule-them-all-wolbachia-protects-against-mosquito-borne-diseases
 
 ## Immortal jellyfish
 
@@ -312,6 +318,7 @@ polyp stage, essentially restarting its life cycle. It does this by
 transdifferentiation — its adult cells transform back into different cell types.
 
 https://en.wikipedia.org/wiki/Turritopsis_dohrnii
+https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html
 
 ## Cellular
 
@@ -345,7 +352,7 @@ See also https://en.wikipedia.org/wiki/Sexual_system#List_of_sexual_systems
 
 ### Male pregnancy
 
-Seahorses are a common example where they will host the growing embryos
+Male seahorses carry and give birth to the young
 
 https://en.wikipedia.org/wiki/Male_pregnancy
 
