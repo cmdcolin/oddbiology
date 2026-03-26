@@ -6,86 +6,6 @@ This repo covers weird biology in general — things that don't entirely fit int
 oddgenes (which focuses on gene annotations and bioinformatics assumptions).
 
 Please feel free to make PRs for more stuff!
-
-## Non-random segregation of chromosomes
-
-Normally we assume each chromosome has a 50/50 chance of ending up in either
-daughter cell. Non-random segregation means some chromosomes "cheat" — they are
-preferentially passed to certain cells, spreading through a population faster
-than expected.
-
-https://en.wikipedia.org/wiki/Non-random_segregation_of_chromosomes
-
-Examples:
-
-- **Aphids**: the X chromosome consistently moves to the larger daughter cell
-  during spermatogenesis, ensuring all offspring are female
-- **Butterflies (ZZ/Z0 type, e.g. Taleporia tubulosa)**: Z chromosome
-  segregation is influenced by temperature and maternal age
-- **Butterflies (ZZ/ZW type)**: the W chromosome always enters the egg cell,
-  resulting exclusively in female offspring
-- **Flowering plants (e.g. maize K10 chromosome)**: K10 is an abnormal version
-  of chromosome 10 that cheats during meiosis — it hijacks the cell division
-  machinery so it ends up in the egg cell ~70% of the time instead of 50%
-- **Scale insects**: males are parahaploid — they have both parents'
-  chromosomes, but only the mother's are switched on and passed to offspring
-- **B chromosomes in plants (e.g. Lilium callosum)**: B chromosomes are extra
-  "selfish" chromosomes with no known function that accumulate across
-  generations by biasing their own transmission
-
-This is closely related to meiotic drive / gene drive, where selfish genetic
-elements bias their own transmission. Engineered gene drives (e.g. using CRISPR)
-exploit this principle to spread genes through wild populations.
-
-https://en.wikipedia.org/wiki/Intragenomic_conflict#Segregation_distortion
-https://en.wikipedia.org/wiki/Gene_drive
-
-## Inheritance without DNA
-
-### Prions
-
-Prions are heritable elements based on protein shape, not DNA. A misfolded
-protein can force other copies of itself to misfold too — causing brain-wasting
-diseases like mad cow disease and scrapie in mammals. In yeast, prions like
-[PSI+] and [URE3] are genuinely inherited across generations through cell
-division, altering traits with no DNA change involved.
-
-https://en.wikipedia.org/wiki/Prion
-https://en.wikipedia.org/wiki/Yeast_prion
-
-### Transgenerational epigenetic inheritance
-
-Chemical modifications on top of DNA can be passed down across generations
-without changing the DNA sequence itself. The idea that experiences like famine
-can affect descendants garners much attention. Evidence exists in plants,
-C. elegans, and some mammalian contexts, though the extent in humans remains
-debated.
-
-https://en.wikipedia.org/wiki/Transgenerational_epigenetic_inheritance
-
-There are skeptics also
-http://www.wiringthebrain.com/2018/07/calibrating-scientific-skepticism-wider.html
-
-## Virus genes repurposed by animals
-
-### Arc — a virus gene co-opted for neuron communication
-
-Arc is a brain gene essential for memory that evolved from an ancient virus. Its
-protein assembles into virus-like shells, packages its own RNA, and ships it
-between neurons. In fruit flies, a related gene (dArc1) does the same thing —
-your neurons are literally sending each other virus-like packages to communicate.
-
-https://www.cell.com/cell/fulltext/S0092-8674(17)31504-0
-https://www.cell.com/cell/fulltext/S0092-8674(17)31502-7
-
-### Syncytins — retroviral genes essential for the placenta
-
-Syncytins are genes required for building the placenta in mammals, and they come
-from ancient retroviruses that infected our ancestors. Different mammalian
-lineages independently captured different retroviruses for this purpose.
-
-https://en.wikipedia.org/wiki/Syncytin
-
 ## Evolution
 
 ### Odd evolutionary relationships
@@ -104,7 +24,7 @@ Try our game https://phyloguessr.com to test your knowledge of these!
 - New world vultures and old world vultures are not very closely related, it is convergent evolution https://en.wikipedia.org/wiki/New_World_vulture
 - Seals are more closely related to dogs than to cats, and even more closely related to bears https://www.youtube.com/watch?v=aAOsf004FqQ
 - Shrews are more closely related to cats than to mice (shrews and hedgehogs are in the same order) https://www.youtube.com/shorts/jRPiiXKmZIA
-- The malaria parasite shares a surprising common ancestor with kelp and other algae — it even retains a vestigial chloroplast (the apicoplast), inherited from an ancestor that engulfed an alga https://www.youtube.com/watch?v=4ejoVBcLP4U https://en.wikipedia.org/wiki/Apicoplast
+- The malaria parasite shares a surprising common ancestor with kelp and other algae — it even keeps a non-functional remnant of a chloroplast (the apicoplast), a relic from an ancient ancestor that engulfed an alga https://www.youtube.com/watch?v=4ejoVBcLP4U https://en.wikipedia.org/wiki/Apicoplast
 - Falcons are more closely related to parrots than to hawks or eagles https://en.wikipedia.org/wiki/Falcon#Systematics_and_evolution
 - Crocodiles are more closely related to birds than to lizards (both are archosaurs) https://en.wikipedia.org/wiki/Archosaur
 - Termites are actually a family of cockroaches https://en.wikipedia.org/wiki/Termite#Taxonomy
@@ -232,8 +152,8 @@ https://www.cell.com/current-biology/fulltext/S0960-9822(16)30263-9
 
 ### Seven different "genomes" in a single celled organism
 
-Like how our cells have a mitochondrial genome alongside the nuclear genome, this
-single-celled organism has 7 different genomes in its cell
+Most cells have two genomes — one in the nucleus, one in the mitochondria. This
+single-celled alga has 7
 
 https://phys.org/news/2023-04-single-celled-alga-harbor-genomes.html
 
@@ -260,9 +180,9 @@ those chloroplasts functional inside their own cells — literally retaining
 another organism's photosynthetic machinery. The sea slug _Elysia chlorotica_
 can survive for months on sunlight after a single algal meal this way. Some
 acoels (e.g. _Symsagittifera reesei_) similarly retain algal chloroplasts and
-can live partly on sunlight. Acoels are themselves phylogenetically odd — long
-grouped with flatworms, they're actually among the most basal bilaterian
-animals.
+can live partly on sunlight. Acoels are themselves an oddity — long lumped in
+with flatworms, they're actually one of the earliest branching groups of
+bilaterally symmetric animals.
 
 https://en.wikipedia.org/wiki/Kleptoplasty
 https://en.wikipedia.org/wiki/Elysia_chlorotica
@@ -314,8 +234,9 @@ https://www.nationalgeographic.com/science/article/one-parasite-to-rule-them-all
 ## Immortal jellyfish
 
 _Turritopsis dohrnii_ can revert from its adult medusa form back to its juvenile
-polyp stage, essentially restarting its life cycle. It does this by
-transdifferentiation — its adult cells transform back into different cell types.
+polyp stage, essentially restarting its life cycle. It does this by reprogramming
+its own cells (transdifferentiation) — adult cells revert and transform into the
+cell types needed to rebuild a juvenile body.
 
 https://en.wikipedia.org/wiki/Turritopsis_dohrnii
 https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html
@@ -373,5 +294,92 @@ A number of examples listed here https://en.wikipedia.org/wiki/Sexual_conflict
 ### Odd genitalia
 
 - Kangaroos have "three vaginas" https://grist.org/animals/kangaroo-genitals-are-weirder-than-you-ever-thought-possible-2/
+
+
+## Non-random segregation of chromosomes
+
+Normally we assume each chromosome has a 50/50 chance of ending up in either
+daughter cell. Non-random segregation means some chromosomes "cheat" — they are
+preferentially passed to certain cells, spreading through a population faster
+than expected.
+
+https://en.wikipedia.org/wiki/Non-random_segregation_of_chromosomes
+
+Examples:
+
+- **Aphids**: the X chromosome consistently moves to the larger daughter cell
+  during sperm production (spermatogenesis), ensuring all offspring are female
+- **Butterflies (ZZ/Z0 type, e.g. Taleporia tubulosa)**: Z chromosome
+  segregation is influenced by temperature and maternal age
+- **Butterflies (ZZ/ZW type)**: the W chromosome always enters the egg cell,
+  resulting exclusively in female offspring
+- **Flowering plants (e.g. maize K10 chromosome)**: K10 is an abnormal version
+  of chromosome 10 that cheats during meiosis — it hijacks the cell division
+  machinery so it ends up in the egg cell ~70% of the time instead of 50%
+- **Scale insects**: males are parahaploid — they have both parents'
+  chromosomes, but only the mother's are switched on and passed to offspring
+- **B chromosomes in plants (e.g. Lilium callosum)**: B chromosomes are extra
+  "selfish" chromosomes with no known function that accumulate across
+  generations by biasing their own transmission
+- **Drosophila segregation distorters**: selfish chromosomes in fruit flies
+  hijack a sperm quality-control checkpoint to destroy sperm that lack the
+  selfish chromosome — independently evolved in multiple species using the same trick
+
+https://www.nature.com/articles/s41467-025-68254-7
+
+This is closely related to meiotic drive / gene drive, where selfish genetic
+elements bias their own transmission. Engineered gene drives (e.g. using CRISPR)
+exploit this principle to spread genes through wild populations.
+
+https://en.wikipedia.org/wiki/Intragenomic_conflict#Segregation_distortion
+https://en.wikipedia.org/wiki/Gene_drive
+
+## Inheritance without DNA
+
+### Prions
+
+Prions are heritable elements based on protein shape, not DNA. A misfolded
+protein can force other copies of itself to misfold too — causing brain-wasting
+diseases like mad cow disease and scrapie in mammals. In yeast, prions like
+[PSI+] and [URE3] are genuinely inherited across generations through cell
+division, altering traits with no DNA change involved.
+
+https://en.wikipedia.org/wiki/Prion
+https://en.wikipedia.org/wiki/Yeast_prion
+
+### Transgenerational epigenetic inheritance
+
+Chemical modifications on top of DNA can be passed down across generations
+without changing the DNA sequence itself. The idea that experiences like famine
+can affect descendants garners much attention. Evidence exists in plants,
+C. elegans, and some mammalian contexts, though the extent in humans remains
+debated.
+
+https://en.wikipedia.org/wiki/Transgenerational_epigenetic_inheritance
+
+There are skeptics also
+http://www.wiringthebrain.com/2018/07/calibrating-scientific-skepticism-wider.html
+
+## Virus genes repurposed by animals
+
+### Arc — a virus gene co-opted for neuron communication
+
+Arc is a brain gene essential for memory that evolved from an ancient virus. Its
+protein assembles into virus-like shells, packages its own RNA, and ships it
+between neurons. In fruit flies, a related gene (dArc1) does the same thing —
+your neurons are literally sending each other virus-like packages to communicate.
+
+https://www.cell.com/cell/fulltext/S0092-8674(17)31504-0
+https://www.cell.com/cell/fulltext/S0092-8674(17)31502-7
+
+### Syncytins — retroviral genes essential for the placenta
+
+Syncytins are genes required for building the placenta in mammals, and they come
+from ancient retroviruses that infected our ancestors. Different mammalian
+lineages independently captured different retroviruses for this purpose.
+
+https://en.wikipedia.org/wiki/Syncytin
+
+
 
 ## Send PRs for more things!
